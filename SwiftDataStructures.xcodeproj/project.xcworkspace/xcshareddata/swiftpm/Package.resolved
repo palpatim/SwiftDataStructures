@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftFoundationExtensions",
+        "repositoryURL": "git@github.com:palpatim/SwiftFoundationExtensions.git",
+        "state": {
+          "branch": null,
+          "revision": "2db45970a62c42a6f7377671164e45625dffca1e",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
